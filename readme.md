@@ -6,7 +6,7 @@ Main work: Based on "fast-neural-style" in the official example of Pytorch  (htt
 
 Result: After training, the style Transfer model can not only capture the style of the specified style image and migrate it to the input content image, but also maintain the discriminative regions of the output image consistent with the input content image. This allows the output style transition image to be applied to tasks related to the discriminative regions, such as Screenshots based on discriminative regions,Focus determination, and the like.
 
-Require:
+Require:  
 Linux  
 Pytorch 0.4.0  
 torchvision 0.2.1  
