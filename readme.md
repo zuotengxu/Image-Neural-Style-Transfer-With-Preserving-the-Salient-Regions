@@ -1,4 +1,4 @@
-Title：Image Neural Style Transfer With Preserving the Salient Regions.
+Implement of "Image Neural Style Transfer With Preserving the Salient Regions."  https://ieeexplore.ieee.org/abstract/document/8606126
 
 Purpose: Keep the discriminative regions of the original content image unchanged while performing Stylization.
 
